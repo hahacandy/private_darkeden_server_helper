@@ -1,0 +1,1 @@
+ping server_ip -t > ping.txt
